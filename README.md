@@ -89,4 +89,8 @@
 - [API 문서](https://www.notion.so/kwyoohae/409fd47468604a74961fa50f55566ebc)
 - [ERD 문서](https://www.notion.so/kwyoohae/409fd47468604a74961fa50f55566ebc)
 - [기능 명세서](https://www.notion.so/kwyoohae/409fd47468604a74961fa50f55566ebc)
-<img width="970" alt="image" src="https://github.com/user-attachments/assets/293df3d3-a699-4702-a547-a9a952ab2ad7" />
+
+![image (2)](https://github.com/user-attachments/assets/c6edadf4-dcbd-442e-aee1-a4be0fcbfaf8)
+
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/293df3d3-a699-4702-a547-a9a952ab2ad7" />
+
