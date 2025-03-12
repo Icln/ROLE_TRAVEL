@@ -45,7 +45,6 @@
 - 사용자가 직접 준비물을 추가할 수 있으며, 체크 기능을 통해 준비 여부를 관리할 수 있습니다.
 
 # 🛠 기술 스택
-### 분야	사용 기술
 - Backend:	Java 11, Spring Boot 2.7, MySQL, JPA, QueryDSL
 - Frontend:	React.js, TypeScript
 - Infra:	AWS (EC2, S3), Docker, Nginx
